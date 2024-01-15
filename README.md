@@ -15,7 +15,7 @@ Implemented a Decision Tree Regressor using scikit-learn, considering factors su
    - Note: In `stressModel.py`, personal database details have been removed for security reasons.
 
 ## Demo:
-A demo video is included. Please check the "Demo" folder.
+A demo video is will be posted soon. Please be on the lookout for "Demo".
 
 ## Dependencies:
 - Pandas
